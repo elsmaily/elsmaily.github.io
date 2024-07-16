@@ -12,7 +12,7 @@ html {
 body {
   font-size: 1.8rem;
   line-height: 1.618;
-  max-width: 38em;
+  max-width: 70rem;
   margin: auto;
   color: #222222;
   background-color: #ffffff;
@@ -75,6 +75,7 @@ p {
   margin-top: 0px;
   margin-bottom: 2.5rem;
 }
+
 
 small, sub, sup {
   font-size: 75%;
