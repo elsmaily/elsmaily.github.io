@@ -42,7 +42,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.1em;
+  font-size: 2.35em;
+}
+
+@media screen and (max-width: 1135px) {
+  h1 {
+    font-size: 2em;
+  }
 }
 
 h2 {
