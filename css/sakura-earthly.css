@@ -20,14 +20,18 @@ body {
   padding: 13px;
 }
 
-@media (max-width: 684px) {
+@media (max-width: 1153px) {
   body {
     font-size: 1.53rem;
+    padding:0px;
+    margin:0px;
   }
 }
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
+    padding:0px;
+    margin:0px;
   }
 }
 h1, h2, h3, h4, h5, h6 {
