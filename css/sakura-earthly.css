@@ -14,7 +14,6 @@ body {
   font-size: 1.8rem;
   line-height: 1.618;
   max-width: 70%;
-  margin: auto;
   color: #222222;
   background-color: #ffffff;
   padding: 13px;
@@ -23,15 +22,13 @@ body {
 @media (max-width: 1153px) {
   body {
     font-size: 1.53rem;
-    padding:0px;
-    margin:0px;
+      max-width: 100% !important;
   }
 }
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
-    padding:0px;
-    margin:0px;
+      max-width: 100% !important;
   }
 }
 h1, h2, h3, h4, h5, h6 {
