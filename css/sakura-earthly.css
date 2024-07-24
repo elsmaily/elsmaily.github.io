@@ -14,11 +14,11 @@ body {
   font-size: 1.8rem;
   line-height: 1.618;
   max-width: 70%;
-  /*color: #222222;
-  background-color:  #ffffff;*/
+  *color: #222222;
+  background-color:  #ffffff;
   margin: auto;
-  color: #49002d;
-  background-color: #ffe4f5;
+  /*color: #49002d;*/
+  /*background-color: #ffe4f5;*/
   padding: 13px;
   /*background-image: url("background.gif");
     background-repeat: repeat;*/
@@ -134,16 +134,16 @@ hr {
 
 a {
   text-decoration: none;
-  /*color: #007559;*/
-  color: #980255;
+  color: #007559;
+  /*color: #980255;*/
 }
 a:visited {
-  /*color: #007559;*/
-  color: #980255;
+  color: #007559;
+  /*color: #980255;*/
 }
 a:hover {
-  /*color: #006994;*/
-  color:#753851;
+  color: #006994;
+  /*color:#753851;*/
   border-bottom: 2px solid #222222;
 }
 
