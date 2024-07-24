@@ -78,7 +78,9 @@ p {
 @media only screen and (max-width: 1153px) {
 
   .h1h{font-size:1.8em !important;}
+
 }
+@media only screen and (max-width: 700px){.subtitle{display: none;}}
 /*.araby{
   font-family: "Noto Kufi Arabic", sans-serif;
   font-optical-sizing: auto;
