@@ -138,7 +138,8 @@ a {
   color: #980255;
 }
 a:visited {
-  color: #007559;
+  /*color: #007559;*/
+  color: #980255;
 }
 a:hover {
   /*color: #006994;*/
