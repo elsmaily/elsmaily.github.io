@@ -15,7 +15,8 @@ body {font-family:Rubik;
   line-height: 1.618;
   max-width: 70%;
   *color: #222222;
-  background-color:  #ffffff;
+/*  background-color:  #ffffff;*/
+  background:url('beige.jpg');
   margin: auto;
   /*color: #49002d;*/
   /*background-color: #ffe4f5;*/
