@@ -8,11 +8,19 @@ html {
   font-size: 62.5%;
 /*  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;*/
 font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
---nc-bg-2: #F6F8FA;
+--nc-bg-2: #F6F8FA;/*#204C65; */
 --nc-bg-3: #E5E7EB;
 }
+/*header{color:#fff}
+header a:active{color:#fff}
+header a:visited{color:#fff}
+header a{color:#fff}*/
+
 header {
 	background: var(--nc-bg-2);
+  background-image: url('mountain.jpg');
+  background-repeat: no-repeat;
+   background-size: cover;
 	border-bottom: 1px solid var(--nc-bg-3);
 	padding: 1px 1.5rem;
 
@@ -42,7 +50,7 @@ body {font-family:"Rubik", sans-serif;
   /*color: #49002d;*/
   /*background-color: #ffe4f5;*/
   padding: 13px;
-  /*background-image: url("background.gif");
+  /*background-image: url("beige.jpg");
     background-repeat: repeat;*/
 }
 
