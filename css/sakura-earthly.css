@@ -16,27 +16,6 @@ header a:active{color:#fff}
 header a:visited{color:#fff}
 header a{color:#fff}*/
 
-header {
-	background: var(--nc-bg-2);
-
-	border-bottom: 1px solid var(--nc-bg-3);
-	padding: 1px 1.5rem;
-
-	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
-
-	margin: -2rem calc(50% - 50vw) 2rem;
-
-	/* Shorthand for:
-
-	margin-top: -2rem;
-	margin-bottom: 2rem;
-
-	margin-left: calc(50% - 50vw);
-	margin-right: calc(50% - 50vw); */
-
-	padding-left: calc(50vw - 50%);
-	padding-right: calc(50vw - 50%);
-}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
