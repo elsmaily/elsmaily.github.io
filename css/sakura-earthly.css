@@ -11,16 +11,47 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 --nc-bg-2: #F6F8FA;/*#204C65; */
 --nc-bg-3: #E5E7EB;
 }
-/*header{color:#fff}
-header a:active{color:#fff}
-header a:visited{color:#fff}
-header a{color:#fff}*/
 
+header{background-image: url('BlackHole_Simonnet_2491.jpg');
+background-size:cover;
+border-bottom: 1px solid var(--nc-bg-3);
+padding: 1px 1.5rem;
+margin: -4rem calc(50% - 50vw) 2rem;
+padding-left: calc(50vw - 50%);
+padding-right: calc(50vw - 50%);}
+
+header{color:#fff;}
+header a:active{color:#fff;}
+header a:visited{color:#fff;}
+header a:hover{color:yellow;}
+header a{color:#fff}
+
+/*header {
+	/*background: var(--nc-bg-2);
+
+background-image: url('hero.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+	border-bottom: 1px solid var(--nc-bg-3);
+	padding: 1px 1.5rem;
+margin: -2rem calc(50% - 50vw) 2rem;
+padding-left: calc(50vw - 50%);
+padding-right: calc(50vw - 50%);}*/
+	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
+
+	/* Shorthand for:
+
+	margin-top: -2rem;
+	margin-bottom: 2rem;
+
+	margin-left: calc(50% - 50vw);
+	margin-right: calc(50% - 50vw); */
+/*}*/
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
   max-width: 70%;
-  color: #444444;
+  color: #444;
   background-color:  #ffffff;
 /*  background:url('beige.jpg') ;*/
   margin: auto;
@@ -54,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   -ms-word-break: break-all;
   word-break: break-word;
 }
+
 
 /*h1 {
   font-size: 2.35em;
