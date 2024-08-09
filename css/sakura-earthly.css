@@ -14,9 +14,6 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 
 header{/*background-image: url('GianniTumino_Etna&MW_14mm_JPG_LOGO__2048pix.jpg');*/
   background: radial-gradient(ellipse at center, #035642 59%, #00231a 100%);
-background-size:cover;
-background-repeat: no-repeat;
-
 padding: 2rem 1.5rem;
 
 /* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
@@ -37,7 +34,7 @@ padding-right: calc(50vw - 50%);}
 header{color:#fff;}
 header a:active{color:#fff;}
 header a:visited{color:#fff;}
-header a:hover{color:#E89082;}
+header a:hover{color:#d6b751;}
 header a{color:#fff}
 
 /*header {
