@@ -187,15 +187,14 @@ hr {
 
 a {
   text-decoration: none;
-  color: #007559;
-  /*color: #980255;*/
+  color:  #007559;
 }
 a:visited {
-  color: #007559;
+  color:  #007559;
   /*color: #980255;*/
 }
 a:hover {
-  color: #006994;
+  color:  #006994;
   /*color:#753851;*/
   border-bottom: 2px solid #222222;
 }
