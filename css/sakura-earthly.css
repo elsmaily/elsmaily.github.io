@@ -12,7 +12,8 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 --nc-bg-3: #E5E7EB;
 }
 
-header{background-image: url('GianniTumino_Etna&MW_14mm_JPG_LOGO__2048pix.jpg');
+header{/*background-image: url('GianniTumino_Etna&MW_14mm_JPG_LOGO__2048pix.jpg');*/
+  background: radial-gradient(ellipse at center, #035642 59%, #00231a 100%);
 background-size:cover;
 background-repeat: no-repeat;
 
