@@ -35,8 +35,8 @@ header{color:#fff;}
 header a:active{color:#fff;}
 header a:visited{color:#fff;}
 header a:hover{color:#d6b751;}
-header a{color:#fff}
-nav{text-align: right;}
+header a{color:#fff;}
+/*nav{text-align: right;}*/
 /*header {
 	/*background: var(--nc-bg-2);
 
