@@ -16,7 +16,7 @@ background-image: url('unsplash-overcast-mountains.jpg');
 background-size: cover;
 
 	border-bottom: 1px solid var(--nc-bg-3);
-	padding: 1rem 1.5rem 1rem 1.5rem;
+	padding: 4rem 1.5rem 4rem 1.5rem;
 margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
