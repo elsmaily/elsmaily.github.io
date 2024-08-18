@@ -12,8 +12,7 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 
 header {
 background-image: url('mountain.jpg');
-
-background-size: cover;
+ background-size: cover;
 
 	border-bottom: 1px solid var(--nc-bg-3);
 	padding: 1px 1.5rem 10rem 1.5rem;
@@ -160,10 +159,11 @@ hr {
 
 a {
   text-decoration: none;
-  color:  #007559;
+  color: #126bd9; /*#007559;*/
 }
 a:visited {
-  color:  #007559;
+  color:  #126bd9;
+  /*#007559;*/
   /*color: #980255;*/
 }
 a:hover {
