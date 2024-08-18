@@ -10,18 +10,18 @@ html {
 font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
 
+header {
+background-image: url('unsplash-overcast-mountains.jpg');
 
-/*header {
-	/*background: var(--nc-bg-2);
-
-background-image: url('hero.jpg');
-background-repeat: no-repeat;
 background-size: cover;
+
 	border-bottom: 1px solid var(--nc-bg-3);
-	padding: 1px 1.5rem;
-margin: -2rem calc(50% - 50vw) 2rem;
+	padding: 1rem 1.5rem 1rem 1.5rem;
+margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
-padding-right: calc(50vw - 50%);}*/
+padding-right: calc(50vw - 50%);
+color:#fff;}
+header a{color:#fff !important;}
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
 	/* Shorthand for:
