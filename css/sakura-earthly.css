@@ -11,12 +11,12 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
 
 header {
-background-image: url('unsplash-overcast-mountains.jpg');
+background-image: url('mountain.jpg');
 
 background-size: cover;
 
 	border-bottom: 1px solid var(--nc-bg-3);
-	padding: 4rem 1.5rem 4rem 1.5rem;
+	padding: 1px 1.5rem 10rem 1.5rem;
 margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
