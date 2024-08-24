@@ -9,7 +9,7 @@ html {
 /*  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;*/
 font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
-
+nav{text-align:center;}
 header {
 /*background-image: url('mountain.jpg');
  background-size: cover;*/
@@ -20,7 +20,7 @@ padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);*/
 }
 /*header a{color:#fff !important;}
-nav{text-align:center;}
+
 header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
