@@ -40,6 +40,7 @@ body {font-family:"Rubik", sans-serif;
   max-width: 70%;
   color: #444;
  background:url('beige.jpg') ;
+ background-repeat: repeat;
   margin: auto;
   /*color: #49002d;*/
   /*background-color: #ffe4f5;*/
