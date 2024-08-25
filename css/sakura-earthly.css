@@ -109,6 +109,7 @@ p {
   .h1h{font-size:1.8em !important;}
 
 }
+@media only screen and (max-width: 700px){nav{text-align: left;}}
 @media only screen and (max-width: 700px){.subtitle{font-size:13px;}}
 .araby{
 font-family: "Cairo", sans-serif;
