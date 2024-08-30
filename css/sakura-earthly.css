@@ -12,7 +12,7 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 nav{text-align:right;}
 header {
 /*background-image: url('mountain.jpg');*/
- background: radial-gradient(ellipse at center,#035642 59%,#00231a 100%);
+ background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
 margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
