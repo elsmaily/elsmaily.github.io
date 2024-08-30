@@ -18,7 +18,7 @@ margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
 padding-top:0.5rem;
-padding-bottom: 0rem;
+padding-bottom: 1px;
 color:#fff;
 }
 header a{color:#fff !important;}
