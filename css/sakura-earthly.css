@@ -11,17 +11,19 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
 nav{text-align:right;}
 header {
-/*background-image: url('mountain.jpg');
- background-size: cover;*/
+/*background-image: url('mountain.jpg');*/
+ background: radial-gradient(ellipse at center,#035642 59%,#00231a 100%);
 	border-bottom: 1px solid var(--nc-bg-3);
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
-/*margin: -4rem calc(50% - 50vw) 2rem;
+margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
-padding-right: calc(50vw - 50%);*/
+padding-right: calc(50vw - 50%);
+padding-top:1rem;
+color:#fff;
 }
-/*header a{color:#fff !important;}
+header a{color:#fff !important;}
 
-header{text-align:center;}*/
+/*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
 	/* Shorthand for:
@@ -30,20 +32,20 @@ header{text-align:center;}*/
 	margin-bottom: 2rem;
 
 	margin-left: calc(50% - 50vw);
-	margin-right: calc(50% - 50vw); */
-/*}*/
-
+	margin-right: calc(50% - 50vw);
+}
+*/
 
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
   max-width: 70%;
   color: #444;
- background:url('beige.jpg') ;
- background-repeat: repeat;
+ /*background:url('beige.jpg') ;
+ background-repeat: repeat;*/
   margin: auto;
   /*color: #49002d;*/
-  background-color: #faf1cf;
+  
   padding: 13px;
   /*background-image: url("beige.jpg");
     background-repeat: repeat;*/
