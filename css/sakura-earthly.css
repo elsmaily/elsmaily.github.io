@@ -18,7 +18,7 @@ margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
 padding-top:1px;
-background: radial-gradient(ellipse at center, #035642 59%, #00231a 100%);
+background: #035642;
 color:#fff;
 }
 header a{color:#fff !important;}
