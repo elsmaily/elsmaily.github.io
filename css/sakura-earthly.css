@@ -167,7 +167,7 @@ hr {
     line-height: .9;
     color:#977000 !important;
     padding: 0px 25px 2% 0;
-    border-bottom:6px solid #eae7e5;
+    border-bottom:6px solid #eae7e5 !important;
 }
 a {
   text-decoration: none;
