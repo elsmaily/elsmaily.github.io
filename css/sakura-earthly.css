@@ -166,9 +166,9 @@ hr {
 }
 .default-header {
     line-height: .9;
-    color:#977000 !important;
+    color:#444 !important;
     padding: 0px 25px 2% 0;
-    border-bottom:6px solid #eae7e5 !important;
+    border-bottom:6px solid #444 !important;
 }
 a {
   text-decoration: none;
