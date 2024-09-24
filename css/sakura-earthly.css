@@ -18,11 +18,10 @@ margin: -5rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
 padding-top:1px;
-padding-bottom: 0.1rem;
-background: #035642;
-color:#fff;
+/*background: #035642;*/
+/*color:#fff;*/
 }
-header a{color:#fff !important;}
+/*header a{color:#fff !important;}*/
 
 /*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
