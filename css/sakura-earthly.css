@@ -14,11 +14,11 @@ header {
 /*background-image: url('mountain.jpg');*/
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
-margin: -5rem calc(50% - 50vw) 2rem;
+margin: -4rem calc(50% - 50vw) 2rem;
 padding-left: calc(50vw - 50%);
 padding-right: calc(50vw - 50%);
 padding-top:1px;
-/*background: #035642;*/
+background: #f0f0f0;
 /*color:#fff;*/
 }
 /*header a{color:#fff !important;}*/
