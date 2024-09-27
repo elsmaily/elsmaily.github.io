@@ -15,14 +15,15 @@ header {
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
 margin: -4rem calc(50% - 50vw) 2rem;
-padding-left: calc(50vw - 50%);
-padding-right: calc(50vw - 50%);
+padding-left:2rem;
+padding-right: 2rem;
 padding-top:1px;
 background: #243762;
 color:#fff;
 }
+nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; font-weight: 300; }
 header a{color:#fff !important;}
-
+header a:hover{color:yellow !important;}
 /*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
