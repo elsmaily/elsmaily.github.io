@@ -10,6 +10,7 @@ html {
 font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
 nav{text-align:right;}
+nav {text-transform: uppercase;}
 header {
 /*background-image: url('mountain.jpg');*/
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
@@ -21,7 +22,7 @@ padding-top:1px;
 background: #1e3765;
 color:#fff;
 }
-nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; margin-right:5px;font-weight: 300; }
+nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; margin-right:5px;font-weight: 200; }
 header a{color:#fff !important;}
 nav a:hover{background:#357E9F !important;}
 /*header{text-align:center;}*/
