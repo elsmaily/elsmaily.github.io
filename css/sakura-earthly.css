@@ -18,12 +18,12 @@ margin: -4rem calc(50% - 50vw) 2rem;
 padding-left:2rem;
 padding-right: 2rem;
 padding-top:1px;
-background: #243762;
+background: #1e3765;
 color:#fff;
 }
 nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; margin-right:5px;font-weight: 300; }
 header a{color:#fff !important;}
-header a:hover{color:#ccc !important;}
+nav a:hover{background:#357E9F !important;}
 /*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
@@ -42,7 +42,7 @@ body {font-family:"Rubik", sans-serif;
   line-height: 1.618;
   max-width: 70%;
   color: #485667;;/*#50596c*/
-  /*background:#d3e3ea !important;*/
+  background:#f7f7f7 !important;
 
  /*background:url('beige.jpg') ;
  background-repeat: repeat;*/
