@@ -21,9 +21,9 @@ padding-top:1px;
 background: #243762;
 color:#fff;
 }
-nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; font-weight: 300; }
+nav a{background-color:#001e42 !important;padding:0.625rem .625rem 0rem .625rem; margin-right:5px;font-weight: 300; }
 header a{color:#fff !important;}
-header a:hover{color:yellow !important;}
+header a:hover{color:#ccc !important;}
 /*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
