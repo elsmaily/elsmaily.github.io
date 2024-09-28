@@ -18,12 +18,13 @@ header {
 margin: -4rem calc(50% - 50vw) 2rem;
 
 padding-top:1px;
-background:#528ea9;/* #1e3765;*/
+background:#467a91;/* #1e3765;*/
 color:#fff;
 }
-nav a{background-color:#467a91;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
+nav a{background-color:#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
 nav a:hover{background:#357E9F !important;}
+
 /*header{text-align:center;}*/
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
@@ -128,10 +129,10 @@ p {
   .h1h{font-size:1.8em !important;
   margin-left:2rem}
   nav{text-transform: none;}
-nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;}
+nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;text-decoration: none;}
 }
 
-}
+
 @media only screen and (max-width: 700px){nav{text-align: left;}}
 @media only screen and (max-width: 700px){.subtitle{font-size:13px;}}
 .araby{
@@ -180,7 +181,7 @@ small, sub, sup {
 }
 
 hr {
-  border-color: #06c;/*#007559;*/
+  border-color: #467a91;/*#007559;*/
 }
 .default-header {
     line-height: .9;
