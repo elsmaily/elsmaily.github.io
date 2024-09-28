@@ -21,7 +21,7 @@ padding-top:1px;
 background: #1e3765;
 color:#fff;
 }
-nav a{background-color:#001e42 ;padding:0.625rem .625rem 0rem .625rem; margin-right:5px; }
+nav a{background-color:#001e42 ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:5px; }
 header a{color:#fff !important;}
 nav a:hover{background:#357E9F !important;}
 /*header{text-align:center;}*/
@@ -126,7 +126,7 @@ p {
   .h1h{font-size:1.8em !important;
   margin-left:2rem}
   nav{text-transform: none;}
-nav a{margin-right:1px; padding:0.4rem 0.4rem 0rem 0.4rem}}
+nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;}}
 
 }
 @media only screen and (max-width: 700px){nav{text-align: left;}}
