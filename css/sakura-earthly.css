@@ -21,7 +21,7 @@ padding-top:1px;
 background: #1e3765;
 color:#fff;
 }
-nav a{background-color:#001e42 ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:5px; }
+nav a{background-color:#001e42 ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
 nav a:hover{background:#357E9F !important;}
 /*header{text-align:center;}*/
