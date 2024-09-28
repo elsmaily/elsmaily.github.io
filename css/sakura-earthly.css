@@ -37,7 +37,8 @@ nav a:hover{background:#357E9F !important;}
 	margin-right: calc(50% - 50vw);
 }
 */
-
+.navbar{width:100%;}
+.navbar a{width:35px;}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
