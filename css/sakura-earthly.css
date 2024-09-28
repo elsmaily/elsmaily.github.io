@@ -47,7 +47,7 @@ nav a:hover{background:#357E9F !important;}
        width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
        text-align: center; /* If you want the text to be centered */
      }
-
+@media only screen and (max-width:700px){.navbar a {width:25%;}}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
@@ -126,7 +126,8 @@ p {
   .h1h{font-size:1.8em !important;
   margin-left:2rem}
   nav{text-transform: none;}
-nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;}}
+nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;}
+}
 
 }
 @media only screen and (max-width: 700px){nav{text-align: left;}}
@@ -134,7 +135,7 @@ nav a{margin-right:1px; padding-top:0.8rem; padding-bottom:0.8rem;}}
 .araby{
 font-family: "Cairo", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
