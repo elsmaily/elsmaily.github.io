@@ -126,7 +126,7 @@ p {
   .h1h{font-size:1.8em !important;
   margin-left:2rem}
   nav{text-transform: none;}
-nav a{margin-right:1px;}}
+nav a{margin-right:1px; padding:0.5rem 0.5rem 0rem 0.5rem}}
 
 }
 @media only screen and (max-width: 700px){nav{text-align: left;}}
