@@ -23,20 +23,9 @@ color:#fff;
 }
 nav a{background-color:#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
-nav a:hover{background:#1779ba !important;}
+nav a:hover{background:#44687E !important;}
 
-/*header{text-align:center;}*/
-	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
-	/* Shorthand for:
-
-	margin-top: -2rem;
-	margin-bottom: 2rem;
-
-	margin-left: calc(50% - 50vw);
-	margin-right: calc(50% - 50vw);
-}
-*/
 
 .navbar {
        width: 100%;
