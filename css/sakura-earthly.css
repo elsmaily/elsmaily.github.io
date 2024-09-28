@@ -117,6 +117,8 @@ h6 {
 }*/
 .h1h{margin-left:2rem;}
 .subtitle{margin-left:2rem;}
+.logo{float:right;margin-right:1rem; width:300px; height:52px;}
+@media only screen and (max-width:1170px){.logo{display: none !important;}}
 p {
   margin-top: 0px;
   margin-bottom: 2.5rem;
@@ -228,7 +230,7 @@ blockquote p {
 
 img, video {
   height: auto;
-  max-width: 100%;
+
   margin-top: 0px;
   margin-bottom: 2.5rem;
 }
