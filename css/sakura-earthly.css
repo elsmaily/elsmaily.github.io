@@ -140,7 +140,7 @@ small, sub, sup {
 }
 
 hr {
-  border-color: #007559;/*#1d92cf;*/
+  border-color: #1d92cf;/*#1d92cf;*/
 }
 .default-header {
     line-height: .9;
@@ -179,7 +179,7 @@ blockquote {
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   padding-right: 0.8em;
-  border-left: 5px solid #006161;/*#007559;*/
+  border-left: 5px solid #1d92cf;/*#007559;*/
   margin-bottom: 2.5rem;
   background-color: #f7f7f7;/*#f7f7f7;*/
 }
