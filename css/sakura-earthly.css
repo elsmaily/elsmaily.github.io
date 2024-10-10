@@ -24,7 +24,7 @@ color:#fff;
 }
 nav a{background-color:#024333;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
-nav a:hover{background:#047c5f !important;border-bottom:none;}
+nav a:hover{background:#498777 !important;border-bottom:none;}
 
 
 
@@ -38,8 +38,8 @@ nav a:hover{background:#047c5f !important;border-bottom:none;}
        width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
        text-align: center; /* If you want the text to be centered */
      }
-     .active{background-color:#047c5f;}
-@media only screen and (max-width:700px){.active{background-color: #047c5f;}}
+     .active{background-color:#498777;}
+@media only screen and (max-width:700px){.active{background-color: #498777;}}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
