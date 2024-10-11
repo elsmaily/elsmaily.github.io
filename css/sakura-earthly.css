@@ -82,6 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .h1h{margin-left:2rem;}
+.h1h a{border-bottom:none !important;}
 .subtitle{margin-left:2rem;}
 .logo{float:right;margin-right:1rem; width:300px; height:52px;}
 @media only screen and (max-width:1170px){.logo{display: none !important;}}
