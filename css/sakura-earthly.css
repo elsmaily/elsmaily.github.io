@@ -28,7 +28,7 @@ nav a:hover{background:#498777 !important;border-bottom:none;}
 
 
 
-.navbar {
+.navbar {padding-top:2rem;
        width: 100%;
        display: flex;
      }
