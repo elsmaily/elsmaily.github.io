@@ -17,12 +17,11 @@ header {
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
 margin: -4rem calc(50% - 50vw) 2rem;
-
 padding-top:1px;
-background-color:#024d3b;/*#074E68;/*#035642;/*#074E68;/*#467a91;/* #1e3765;*/
+background-color:#035642;/*#074E68;/*#035642;/*#074E68;/*#467a91;/* #1e3765;*/
 color:#fff;
 }
-nav a{background-color:#023025;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
+nav a{background-color:#024333;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
 nav a:hover{background:#1c6654 !important;border-bottom:none;}
 
