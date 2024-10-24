@@ -19,12 +19,12 @@ header {
 margin: -4rem calc(50% - 50vw) 2rem;
 
 padding-top:1px;
-background-color:#035642;/*#074E68;/*#035642;/*#074E68;/*#467a91;/* #1e3765;*/
+background-color:#024d3b;/*#074E68;/*#035642;/*#074E68;/*#467a91;/* #1e3765;*/
 color:#fff;
 }
 nav a{background-color:#023025;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
 header a{color:#fff !important;}
-nav a:hover{background:#498777 !important;border-bottom:none;}
+nav a:hover{background:#1c6654 !important;border-bottom:none;}
 
 
 
@@ -38,8 +38,8 @@ nav a:hover{background:#498777 !important;border-bottom:none;}
        width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
        text-align: center; /* If you want the text to be centered */
      }
-     .active{background-color:#498777;}
-@media only screen and (max-width:700px){.active{background-color: #498777;}}
+     .active{background-color:#1c6654;}
+@media only screen and (max-width:700px){.active{background-color: #1c6654;}}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
@@ -56,7 +56,7 @@ body {font-family:"Rubik", sans-serif;
   /*background-image: url("beige.jpg");
     background-repeat: repeat;*/
 }
-
+/*main{border-left: 2px solid #eae7e5;padding-left:12px;}*/
 @media (max-width: 1153px) {
   body {
     font-size: 1.53rem;
