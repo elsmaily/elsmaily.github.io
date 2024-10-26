@@ -252,7 +252,7 @@ textarea {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #007559;
+  background-color: #ccc;
   color: #ffffff;
   border-radius: 1px;
   border: 1px solid #007559;
@@ -263,12 +263,14 @@ textarea {
   cursor: default;
   opacity: 0.5;
 }
-.button:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, input[type=file]::file-selector-button:hover {
-  background-color: #006994;
+.button:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover,
+input[type=button]:hover, input[type=file]::file-selector-button:hover {
+  background-color: #b7b7b7;
   color: #ffffff;
   outline: 0;
 }
-.button:focus-visible, button:focus-visible, input[type=submit]:focus-visible, input[type=reset]:focus-visible, input[type=button]:focus-visible, input[type=file]::file-selector-button:focus-visible {
+.button:focus-visible, button:focus-visible, input[type=submit]:focus-visible,
+input[type=reset]:focus-visible, input[type=button]:focus-visible, input[type=file]::file-selector-button:focus-visible {
   outline-style: solid;
   outline-width: 2px;
 }
