@@ -63,6 +63,7 @@ body {font-family:"Rubik", sans-serif;
   }
   button{font-size: 1.53rem;}
 }
+button a:hover{border-bottom:none;}
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
@@ -261,6 +262,7 @@ textarea {
   cursor: pointer;
   box-sizing: border-box;
 }
+
 .button[disabled], button[disabled], input[type=submit][disabled], input[type=reset][disabled], input[type=button][disabled], input[type=file]::file-selector-button[disabled] {
   cursor: default;
   opacity: 0.5;
@@ -270,7 +272,7 @@ input[type=button]:hover, input[type=file]::file-selector-button:hover {
   background-color: #dddddd;
   color: #ffffff;
   outline: 0;
-}
+  }
 .button:focus-visible, button:focus-visible, input[type=submit]:focus-visible,
 input[type=reset]:focus-visible, input[type=button]:focus-visible, input[type=file]::file-selector-button:focus-visible {
   outline-style: solid;
@@ -291,7 +293,6 @@ textarea:focus, select:focus, input:focus {
   border: 1px solid #007559;
   outline: 0;
 }
-
 input[type=checkbox]:focus {
   outline: 1px dotted #007559;
 }
