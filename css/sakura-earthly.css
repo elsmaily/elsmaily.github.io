@@ -27,7 +27,7 @@ nav a:hover{background:#f4f4f4 !important;border-bottom:none;}
 
 
 
-.navbar {padding-top:2rem;
+.navbar {
        width: 100%;
        display: flex;
      }
