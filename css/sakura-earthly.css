@@ -11,7 +11,9 @@ font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
 }
 
 nav {text-transform: uppercase;
-font-weight: thin;}
+font-weight: thin;
+border-top:4px solid #977000 !important;
+     border-bottom:1px solid #977000;}
 header {
 /*background-image: url('mountain.jpg');*/
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
