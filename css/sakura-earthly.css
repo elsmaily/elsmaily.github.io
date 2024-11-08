@@ -7,8 +7,7 @@
 html {
   font-size: 62.5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
-}
+font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
 
 nav {text-transform: uppercase;
 font-weight: thin;
@@ -40,7 +39,7 @@ nav a:hover{background:#f4f4f4 !important;border-bottom:none;}
        text-align: center; /* If you want the text to be centered */
      }
      .active{background-color:#f4f4f4;}
-@media only screen and (max-width:700px){.active{background-color: #eae7e5;}}
+@media only screen and (max-width:700px){.active{background-color: #f4f4f4;}}
 body {font-family:"Rubik", sans-serif;
   font-size: 1.8rem;
   line-height: 1.618;
@@ -51,6 +50,7 @@ body {font-family:"Rubik", sans-serif;
  /*background:url('beige.jpg') ;
  background-repeat: repeat;*/
   margin: auto;
+
   /*color: #49002d;*/
 
   padding: 13px;
@@ -62,6 +62,7 @@ body {font-family:"Rubik", sans-serif;
   body {
     font-size: 1.53rem;
       max-width: 100% !important;
+
   }
   button{font-size: 1.53rem;}
 }
