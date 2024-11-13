@@ -277,8 +277,8 @@ textarea {
 }
 .button:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover,
 input[type=button]:hover, input[type=file]::file-selector-button:hover {
-  background-color: #dddddd;
-  color: #6ca0b8;
+  background-color: #5a95b0;
+  color: #fff;
   outline: 0;
   }
 .button:focus-visible, button:focus-visible, input[type=submit]:focus-visible,
