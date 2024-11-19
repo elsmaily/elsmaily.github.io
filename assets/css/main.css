@@ -230,22 +230,51 @@ input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9
 @media (min-width: 48em){.grid__item{margin-left:0;margin-right:0;width:23.4693877551%;float:left}.grid__item:nth-child(4n+1){margin-left:0;margin-right:-100%;clear:both;margin-left:0}.grid__item:nth-child(4n+2){margin-left:25.5102040816%;margin-right:-100%;clear:none}
 .grid__item:nth-child(4n+3){margin-left:51.0204081633%;margin-right:-100%;clear:none}.grid__item:nth-child(4n+4){margin-left:76.5306122449%;margin-right:-100%;clear:none}
 .grid__item .archive__item-teaser{max-height:120px}
-.grid__item .archive__item-excerpt{display:block;font-size:.75em}}.feature__wrapper{clear:both;margin-bottom:2em;border-bottom:1px solid #f2f3f3}.feature__wrapper::after{clear:both;content:"";display:table}.feature__item{margin-bottom:2em;font-size:1.25rem}@media (min-width: 37.5em){.feature__item{margin-bottom:0;width:32.2033898305%;float:left}
-.feature__item:nth-child(3n+1){margin-left:0;margin-right:-100%;clear:both;margin-left:0}.feature__item:nth-child(3n+2){margin-left:33.8983050847%;margin-right:-100%;clear:none}
-.feature__item:nth-child(3n+3){margin-left:67.7966101695%;margin-right:-100%;clear:none}.feature__item .feature__item-teaser{max-height:200px;overflow:hidden}}.feature__item--left{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}.feature__item--left .archive__item-teaser{margin-bottom:2em}@media (min-width: 37.5em){.feature__item--left .archive__item-teaser{width:40.6779661017%;float:left;margin-right:1.6949152542%}
-.feature__item--left .archive__item-body{width:57.6271186441%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:8.4745762712%}}.feature__item--right{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}.feature__item--right .archive__item-teaser{margin-bottom:2em}@media (min-width: 37.5em){.feature__item--right{text-align:right}.feature__item--right .archive__item-teaser{width:40.6779661017%;float:right;margin-left:1.6949152542%}.feature__item--right .archive__item-body{width:57.6271186441%;float:left;margin-left:0;padding-left:4.2372881356%;padding-right:8.4745762712%}}.feature__item--center{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}.feature__item--center .archive__item-teaser{margin-bottom:2em}@media (min-width: 37.5em){.feature__item--center{text-align:center}.feature__item--center .archive__item-teaser{margin:0 auto;width:40.6779661017%}.feature__item--center .archive__item-body{margin:0 auto;width:57.6271186441%}}.sidebar{-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0);clear:both;margin-bottom:1em}.sidebar::after{clear:both;content:"";display:table}@media screen and (min-width: 1024px){.sidebar{height:100vh;overflow-y:auto;position:fixed;padding-top:70px}}@media (min-width: 57.8125em){.sidebar{width:15.2542372881%;float:left;margin-right:1.6949152542%;opacity:1;-webkit-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out}.sidebar:hover{opacity:1}}
+.grid__item .archive__item-excerpt{display:block;font-size:.75em}}
+.feature__wrapper{clear:both;margin-bottom:2em;border-bottom:1px solid #f2f3f3}.feature__wrapper::after{clear:both;content:"";display:table}.feature__item{margin-bottom:2em;font-size:1.25rem}@media (min-width: 37.5em){.feature__item{margin-bottom:0;width:32.2033898305%;float:left}
+.feature__item:nth-child(3n+1){margin-left:0;margin-right:-100%;clear:both;margin-left:0}
+.feature__item:nth-child(3n+2){margin-left:33.8983050847%;margin-right:-100%;clear:none}
+.feature__item:nth-child(3n+3){margin-left:67.7966101695%;margin-right:-100%;clear:none}
+.feature__item .feature__item-teaser{max-height:200px;overflow:hidden}}
+.feature__item--left{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}
+.feature__item--left .archive__item-teaser{margin-bottom:2em}
+@media (min-width: 37.5em){.feature__item--left .archive__item-teaser{width:40.6779661017%;float:left;margin-right:1.6949152542%}
+.feature__item--left .archive__item-body{width:57.6271186441%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:8.4745762712%}}
+.feature__item--right{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}
+.feature__item--right .archive__item-teaser{margin-bottom:2em}
+@media (min-width: 37.5em){.feature__item--right{text-align:right}
+.feature__item--right .archive__item-teaser{width:40.6779661017%;float:right;margin-left:1.6949152542%}
+.feature__item--right .archive__item-body{width:57.6271186441%;float:left;margin-left:0;padding-left:4.2372881356%;padding-right:8.4745762712%}}
+.feature__item--center{clear:both;width:100%;float:left;margin-left:0;margin-right:0;font-size:1.25rem}
+.feature__item--center .archive__item-teaser{margin-bottom:2em}
+@media (min-width: 37.5em){.feature__item--center{text-align:center}
+.feature__item--center .archive__item-teaser{margin:0 auto;width:40.6779661017%}
+.feature__item--center .archive__item-body{margin:0 auto;width:57.6271186441%}}
+.sidebar{-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0);clear:both;margin-bottom:1em}
+.sidebar::after{clear:both;content:"";display:table}
+@media screen and (min-width: 1024px){.sidebar{height:100vh;overflow-y:auto;position:fixed;padding-top:70px}}
+@media (min-width: 57.8125em){.sidebar{width:15.2542372881%;float:left;margin-right:1.6949152542%;opacity:1;-webkit-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out}.sidebar:hover{opacity:1}}
 @media (min-width: 80em){.sidebar{max-width:250px;padding-right:0}}
 .sidebar h2,.sidebar h3,.sidebar h4,.sidebar h5,.sidebar h6{margin-bottom:0;font-family:"Rubik", sans-serif}
-.sidebar h3,.sidebar h4{font-size:1em}.sidebar p,.sidebar li{font-family:"Rubik", sans-serif;font-size:.75em;line-height:1.5}.sidebar img{width:100%}.sidebar__right{margin-bottom:1em}@media (min-width: 57.8125em){.sidebar__right{position:relative;float:right;width:200px;margin-left:2.5423728814%;z-index:10}}@media (min-width: 80em){.sidebar__right{width:300px}}.author__avatar{display:table-cell;vertical-align:top;width:36px}@media (min-width: 57.8125em){.author__avatar{display:block;width:auto;height:auto}}.author__avatar img{max-width:175px;border-radius:50%}@media (min-width: 57.8125em){.author__avatar img{padding:5px;border:1px solid #f2f3f3}}.author__content{display:table-cell;vertical-align:top;padding-left:15px;padding-right:25px;line-height:1}@media (min-width: 57.8125em){.author__content{display:block;width:100%;padding-left:0;padding-right:0}}
+.sidebar h3,.sidebar h4{font-size:1em}.sidebar p,.sidebar li{font-family:"Rubik", sans-serif;font-size:.75em;line-height:1.5}.sidebar img{width:100%}.sidebar__right{margin-bottom:1em}@media (min-width: 57.8125em){.sidebar__right{position:relative;float:right;width:200px;margin-left:2.5423728814%;z-index:10}}
+@media (min-width: 80em){.sidebar__right{width:300px}}
+.author__avatar{display:table-cell;vertical-align:top;width:36px}
+@media (min-width: 57.8125em){.author__avatar{display:block;width:auto;height:auto}}
+.author__avatar img{max-width:175px;border-radius:50%}
+@media (min-width: 57.8125em){.author__avatar img{padding:5px;border:1px solid #f2f3f3}}.author__content{display:table-cell;vertical-align:top;padding-left:15px;padding-right:25px;line-height:1}@media (min-width: 57.8125em){.author__content{display:block;width:100%;padding-left:0;padding-right:0}}
 .author__name{margin:0}@media (min-width: 57.8125em){.author__name{margin-top:10px;margin-bottom:10px}}.sidebar .author__name{font-family:"Rubik", sans-serif;font-size:1em}.sidebar .author__desktop{display:none}@media screen and (min-width: 1024px){.sidebar .author__desktop{display:block}}.author__pronouns{margin:0}@media (min-width: 57.8125em){.author__pronouns{margin-top:10px;margin-bottom:10px}}.author__bio{margin:0}@media (min-width: 57.8125em){.author__bio{margin-top:10px;margin-bottom:20px}}
 .author__urls-wrapper{position:relative;display:table-cell;vertical-align:middle;font-family:"Rubik", sans-serif;z-index:10;position:relative;cursor:pointer}
-.author__urls-wrapper li:last-child a{margin-bottom:0}@media (min-width: 57.8125em){.author__urls-wrapper{display:block}}
-.author__urls-wrapper button{margin-bottom:0}@media (min-width: 57.8125em){.author__urls-wrapper button{display:none}}
+.author__urls-wrapper li:last-child a{margin-bottom:0}
+@media (min-width: 57.8125em){.author__urls-wrapper{display:block}}
+.author__urls-wrapper button{margin-bottom:0}
+@media (min-width: 57.8125em){.author__urls-wrapper button{display:none}}
 .author__urls{display:none;position:absolute;right:0;margin-top:15px;padding:10px;list-style-type:none;border:1px solid #f2f3f3;border-radius:4px;background:#3e3e3d;z-index:-1;box-shadow:0 0 10px rgba(0,0,0,0.25);cursor:default}@media (min-width: 57.8125em){.author__urls{display:block;position:relative;margin:0;padding:0;border:0;background:transparent;box-shadow:none}}
 .author__urls:before{display:block;content:"";position:absolute;top:-11px;left:calc(50% - 10px);width:0;border-style:solid;border-width:0 10px 10px;
-border-color:#f2f3f3 transparent;z-index:0}@media (min-width: 57.8125em){.author__urls:before{display:none}}
+border-color:#f2f3f3 transparent;z-index:0}
+@media (min-width: 57.8125em){.author__urls:before{display:none}}
 .author__urls:after{display:block;content:"";position:absolute;top:-10px;left:calc(50% - 10px);width:0;border-style:solid;border-width:0 10px 10px;border-color:#fff transparent;z-index:1}@media (min-width: 57.8125em){.author__urls:after{display:none}}
-.author__urls li{white-space:nowrap}.author__urls a{display:block;margin-bottom:5px;padding-right:5px;padding-top:2px;padding-bottom:2px;color:inherit;font-size:1em;text-decoration:none}.author__urls a:hover{text-decoration:underline}
+.author__urls li{white-space:nowrap}
+.author__urls a{display:block;margin-bottom:5px;padding-right:5px;padding-top:2px;padding-bottom:2px;color:inherit;font-size:1em;text-decoration:none}.author__urls a:hover{text-decoration:underline}
 /*!
  * Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
