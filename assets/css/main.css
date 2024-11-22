@@ -296,7 +296,10 @@ border-color:#f2f3f3 transparent;z-index:0}
 
  .fa-cog:before {
    content: "\f013"; }
-
+   .fa-university:before {
+     content: "\f19c"; }
+     .fa-sticky-note:before {
+  content: "\f249"; }
  .fa-cogs:before {
    content: "\f085"; }
  .fa-chalkboard-user::before{content:""}
