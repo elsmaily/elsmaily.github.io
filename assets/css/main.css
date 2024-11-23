@@ -336,7 +336,10 @@ border-color:#f2f3f3 transparent;z-index:0}
  .fa-building::before{content:""}
  .fa-mail-bulk::before{content:""}
  .fa-canadian-maple-leaf:before{content:""}
-
+ .fa-graduation-cap:before {
+   content: "\f19d"; }
+   .fa-file-archive:before {
+     content: "\f1c6"; }
 .fa-external-link-alt:before {
   content: "\f35d"; }
 
