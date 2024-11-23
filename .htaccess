@@ -16,6 +16,7 @@ AddType application/x-font-opentype      .otf
 AddType image/svg+xml                    .svg
 AddType application/x-font-ttf           .ttf
 AddType application/font-woff            .woff
+AddType application/font-woff            .woff2
 
 # Set this to development, staging or production
 # ============================================
@@ -104,6 +105,7 @@ ExpiresByType image/webp                "access plus 1 month"
   ExpiresByType font/truetype             "access plus 1 month"
   ExpiresByType font/opentype             "access plus 1 month"
   ExpiresByType application/x-font-woff   "access plus 1 month"
+ ExpiresByType application/x-font-woff2   "access plus 1 month"
   ExpiresByType image/svg+xml             "access plus 1 month"
   ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
 
