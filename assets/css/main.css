@@ -14,7 +14,7 @@ button,input{*overflow:visible;line-height:normal}
 button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}
 button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}label,select,button,input[type="button"],input[type="reset"],input[type="submit"],input[type="radio"],input[type="checkbox"]{cursor:pointer}input[type="search"]{box-sizing:content-box;-webkit-appearance:textfield}input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}textarea{overflow:auto;vertical-align:top}
 html{position:relative;min-height:100%}
-body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#444;font-family:"Rubik", sans-serif;
+body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#494e52;font-family:"Rubik", sans-serif;
 line-height:1.5;}
 body.overflow--hidden{overflow:hidden}
 h1,h2,h3,h4,h5,h6{margin:2em 0 0.5em;line-height:1.2;font-family:"Rubik", sans-serif;font-weight:bold
