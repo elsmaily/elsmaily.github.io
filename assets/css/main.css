@@ -221,7 +221,7 @@ input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9
 .form__spinner{display:none;position:absolute;top:50%;left:50%;z-index:11}#goog-fixurl ul{list-style:none;margin-left:0;padding-left:0}
 #goog-fixurl ul li{list-style-type:none}#goog-wm-qt{width:auto;margin-right:10px;margin-bottom:20px;padding:8px 20px;display:inline-block;font-size:.75em;
   background-color:#fff;color:#000;border-width:2px !important;border-style:solid !important;border-color:gray;border-radius:4px}
-  #main{max-width:925px;margin-left:auto;margin-right:auto;clear:both;margin-top:2em;padding-left:1em;padding-right:0.5em;animation:intro 0.3s both;animation-delay:0.35s}
+  #main{max-width:925px;margin-left:auto;margin-right:auto;clear:both;margin-top:2em;padding-left:1em;padding-right:1em;animation:intro 0.3s both;animation-delay:0.35s}
   #main:after{content:" ";display:block;clear:both}#main::after{clear:both;content:"";display:table}
 @media (min-width: 80em){#main{max-width:70%}}
 @media (min-width: 57.8125em){.page{width:83.0508474576%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:0%}}
