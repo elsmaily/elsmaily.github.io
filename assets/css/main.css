@@ -17,6 +17,29 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{-webki
 html{position:relative;min-height:100%}
 body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#494e52;font-family:"Rubik", sans-serif;
 line-height:1.5;}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        color: #fff;
+        background-color: #565b5e;
+    }
+body{color:#fff}
+    .masthead {
+        background-color: #565b5e  !important;
+
+    }
+.greedy-nav{  background-color: #565b5e !important;}
+.greedy-nav .hidden-links{background-color: #565b5e !important;}
+.greedy-nav .hidden-links a:hover{background-color: #7a8288 !important;color:#fff !important;}
+    .greedy-nav a{color: #fff !important}
+ .greedy-nav a:hover{color: #ccc !important}
+
+  a {color: #a6ce39;}
+  a:hover{color:#ccc}
+  .page__footer{background-color: #565b5e !important;color: #ccc !important; }
+}
+
+
 body.overflow--hidden{overflow:hidden}
 h1,h2,h3,h4,h5,h6{margin:2em 0 0.5em;line-height:1.2;font-family:"Rubik", sans-serif;font-weight:bold
 }h1{margin-top:0;font-size:1.563em}h2{font-size:1.25em}
