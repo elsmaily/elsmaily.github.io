@@ -26,8 +26,10 @@ line-height:1.5;}
 body{color:#fff}
     .masthead {
         background-color: #565b5e  !important;
+        border-bottom: solid 1px #333 !important;
 
     }
+
 .greedy-nav{  background-color: #565b5e !important;}
 .greedy-nav .hidden-links{background-color: #565b5e !important;}
 .greedy-nav .hidden-links a:hover{background-color: #7a8288 !important;color:#fff !important;}
