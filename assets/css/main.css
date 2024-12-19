@@ -34,7 +34,7 @@ body{color:#D0FFD0}
 
 .greedy-nav .hidden-links{background-color: #212121 !important;}
 .greedy-nav .hidden-links a:hover{background-color: #2e2e2e !important;color:#FC0 !important;}
-    .greedy-nav a{color: #F60 !important; font-weight:500 !important;}
+    .greedy-nav a{color: #F60 !important; }
  .greedy-nav a:hover{color: #FC0 !important}
 h1,h2,h3,h4,h5,h6{color:#fff !important;}
   a {color: #F60; font-weight:bold !important;}
