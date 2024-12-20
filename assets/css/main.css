@@ -17,20 +17,7 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{-webki
 html{position:relative;min-height:100%}
 body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#494e52;font-family:"Rubik", sans-serif;
 line-height:1.5;}
-@media only screen and (min-width: 375px)
-and (max-width: 1179px){
-    .body{text-align:left !important; }
-}
 
-@media only screen and (min-width: 375px)
-and (max-width: 1179px) and (orientation: portrait) {
-    .body{text-align:left !important; }}
-}
-
-@media only screen and (min-width: 375px)
-and (max-width: 1179px) and (orientation: landscape) {
-    .body{text-align:left !important; }}
-}
 @media (prefers-color-scheme: dark) {
     html {
         color: #fff;
