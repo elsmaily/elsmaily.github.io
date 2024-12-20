@@ -267,7 +267,7 @@ input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9
   background-color:#fff;color:#000;border-width:2px !important;border-style:solid !important;border-color:gray;border-radius:4px}
   #main{max-width:925px;margin-left:auto;margin-right:auto;clear:both;margin-top:2em;padding-left:1em;padding-right:1em;animation:intro 0.3s both;animation-delay:0.35s}
   #main:after{content:" ";display:block;clear:both}#main::after{clear:both;content:"";display:table}
-@media (min-width: 80em){#main{max-width:80%}}
+@media (min-width: 80em){#main{max-width:70%}}
 @media (min-width: 57.8125em){.page{width:83.0508474576%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:0%}}
 .page .page__inner-wrap{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
 .page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .comment__date,.page .page__inner-wrap .page__share{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
