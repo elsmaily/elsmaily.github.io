@@ -25,12 +25,12 @@ line-height:1.5;}
     }
 body{color:#D0FFD0}
     .masthead {
-        background-color: #212121  !important;
+        background-color: #141414  !important;
         border-bottom: solid 1px #2e2e2e !important;
 
     }
 .greedy-nav button{ background-color: #2e2e2e !important;}
-.greedy-nav{  background-color: #212121 !important;}
+.greedy-nav{  background-color: #141414 !important;}
 
 .greedy-nav .hidden-links{background-color: #212121 !important;}
 .greedy-nav .hidden-links a:hover{background-color: #2e2e2e !important;color:#FC0 !important;}
