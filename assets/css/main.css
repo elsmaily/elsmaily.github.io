@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6{color:#fff !important;}
   a {color: #F60; font-weight:bold !important;}
   a:hover{color:#FC0;}
   .page__footer{background-color: #141414 !important;color: #ccc !important; }
-.author__urls{display:none;position:absolute;right:0;margin-top:15px;padding:10px;list-style-type:none;border:1px solid #f2f3f3;border-radius:4px;background:#2e2e2e !important;z-index:-1;box-shadow:0 0 10px rgba(0,0,0,0.25);cursor:default}
+.author__urls{display:none;position:absolute;right:0;margin-top:15px;padding:10px;list-style-type:none;border:1px solid #f2f3f3;border-radius:4px;background:#212121 !important;z-index:-1;box-shadow:0 0 10px rgba(0,0,0,0.25);cursor:default}
 }
 
 
