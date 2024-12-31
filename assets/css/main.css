@@ -406,6 +406,8 @@ border-color:#f2f3f3 transparent;z-index:0}
   content: "\f249"; }
  .fa-cogs:before {
    content: "\f085"; }
+   .fa-researchgate:before {
+     content: "\f4f8"; }
  .fa-chalkboard-user::before{content:""}
  .fa-chalkboard-teacher::before{content:""}
  .fa-globe::before{content:""}
