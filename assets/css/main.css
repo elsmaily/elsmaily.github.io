@@ -18,6 +18,8 @@ html{position:relative;min-height:100%}
 body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#494e52;font-family:"Rubik", sans-serif;
 line-height:1.5;}
 
+
+
 /*@media (prefers-color-scheme: dark) {
     html {
         color: #fff;
@@ -165,7 +167,7 @@ a.reversefootnote:hover{text-decoration:underline}.required{color:#ee5f5b;font-w
 .pagination--pager.disabled{color:#dee0e1;pointer-events:none;cursor:not-allowed}
 .page__content + .pagination,.page__meta+.pagination,.comment__date+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;
   padding-top:2em;border-top:1px solid #f2f3f3;}
-.greedy-nav{position:relative;min-width:250px;background:#243762;}
+.greedy-nav{position:relative;min-width:250px;background:#243762;text-transform: uppercase}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#fff;text-decoration:none;}
 .greedy-nav a:hover{color:#ccc; }
 .greedy-nav button{position:absolute;height:2.5rem;right:0;padding:0 0.5rem;border:0;outline:none;
