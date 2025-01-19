@@ -2,7 +2,7 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
 html{box-sizing:border-box;background-color:#fff;font-size:18px;
   -webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
   @media (min-width: 48em){html{font-size:1.2875em;}}
-body{margin:0;}::
+body{margin:0; }::
 -moz-selection{color:#fff;background:#000}::selection{color:#fff;background:#000}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
@@ -274,7 +274,7 @@ input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9
 @media (min-width: 57.8125em){.page{width:83.0508474576%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:0%}}
 .page .page__inner-wrap{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
 .page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .comment__date,.page .page__inner-wrap .page__share{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
-.page__title{margin-top:0;line-height:1; font-size:2em;color:#1e3765}.page__title+.page__meta,.page__title+.comment__date{margin-top:-0.5em}
+.page__title{margin-top:0;line-height:1; font-size:2em;color:#1e3765;padding-bottom: 10px;border-bottom: solid 1px #007fa3;}.page__title+.page__meta,.page__title+.comment__date{margin-top:-0.5em}
 .page__lead{font-family:"Rubik", sans-serif;font-size:1.25em}
 .page__content h2{padding-bottom:0.5em;border-bottom:1px solid #f2f3f3}.page__content p,.page__content li,.page__content dl{font-size:1em}.page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}.page__content a:hover{text-decoration:underline}.page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
