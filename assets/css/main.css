@@ -169,7 +169,7 @@ a.reversefootnote:hover{text-decoration:underline}.required{color:#ee5f5b;font-w
   padding-top:2em;border-top:1px solid #f2f3f3;}
 .greedy-nav{position:relative;min-width:250px;background:#7dacc0;text-transform: uppercase}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#fff;text-decoration:none;}
-.greedy-nav a:hover{color:#ccc; }
+.greedy-nav a:hover{color:#2f6c87; }
 .greedy-nav button{position:absolute;height:2.5rem;right:0;padding:0 0.5rem;border:0;outline:none;
   background-color:#467a91;color:#333;cursor:pointer;z-index:100}
 .greedy-nav .visible-links{display:table}
