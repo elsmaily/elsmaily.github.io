@@ -171,7 +171,7 @@ a.reversefootnote:hover{text-decoration:underline}.required{color:#ee5f5b;font-w
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#222;text-decoration:none;}
 .greedy-nav a:hover{color:#543e35; }
 .greedy-nav button{position:absolute;height:2.5rem;right:0;padding:0 0.5rem;border:0;outline:none;
-  background-color:#543e35;color:#333;cursor:pointer;z-index:100}
+  background-color:#d2bf8a;color:#333;cursor:pointer;z-index:100}
 .greedy-nav .visible-links{display:table}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle; }
 .greedy-nav .visible-links li:first-child{font-weight:bold;text-wrap:wrap;}
