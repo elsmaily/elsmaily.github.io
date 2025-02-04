@@ -41,7 +41,13 @@ h1, h2, h3, h4, h5, h6 {
   -ms-word-break: break-all;
   word-break: break-word;
 }
-
+.araby{
+  font-family: "Aref Ruqaa", serif;
+  font-weight: 700;
+  font-style: normal;
+   text-align: right;
+     float: right;
+}
 h1 {
   font-size: 2.35em;
 }
