@@ -15,7 +15,7 @@ button,input{*overflow:visible;line-height:normal}
 button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}
 button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}label,select,button,input[type="button"],input[type="reset"],input[type="submit"],input[type="radio"],input[type="checkbox"]{cursor:pointer}input[type="search"]{box-sizing:content-box;-webkit-appearance:textfield}input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}textarea{overflow:auto;vertical-align:top}
 html{position:relative;min-height:100%}
-body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#222 ;font-family:"Rubik", sans-serif;
+body{margin:0;padding:70px 0 0;padding-bottom:9em;color:#444 ;font-family:"Rubik", sans-serif;
 line-height:1.5;}
 
 
@@ -168,7 +168,7 @@ a.reversefootnote:hover{text-decoration:underline}.required{color:#ee5f5b;font-w
 .page__content + .pagination,.page__meta+.pagination,.comment__date+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;
   padding-top:2em;border-top:1px solid #f2f3f3;}
 .greedy-nav{position:relative;min-width:250px;background:#fff;text-transform: uppercase}
-.greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#222;text-decoration:none;}
+.greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#444;text-decoration:none;}
 .greedy-nav a:hover{color:#543e35; }
 .greedy-nav button{position:absolute;height:2.5rem;right:0;padding:0 0.5rem;border:0;outline:none;
   background-color:#fff;color:#333;cursor:pointer;z-index:100}
@@ -274,7 +274,7 @@ input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9
 @media (min-width: 57.8125em){.page{width:83.0508474576%;float:right;margin-right:0;padding-left:4.2372881356%;padding-right:0%}}
 .page .page__inner-wrap{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
 .page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .comment__date,.page .page__inner-wrap .page__share{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
-.page__title{margin-top:0;line-height:1; font-size:2em;color:#333;padding-bottom: 10px;border-bottom: solid 4px #444;}.page__title+.page__meta,.page__title+.comment__date{margin-top:-0.5em}
+.page__title{margin-top:0;line-height:1; font-size:2em;color:#444;padding-bottom: 10px;border-bottom: solid 4px #444;}.page__title+.page__meta,.page__title+.comment__date{margin-top:-0.5em}
 .page__lead{font-family:"Rubik", sans-serif;font-size:1.25em}
 .page__content h2{padding-bottom:0.5em;border-bottom:1px solid #444}.page__content p,.page__content li,.page__content dl{font-size:1em}.page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}.page__content a:hover{text-decoration:underline}.page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
