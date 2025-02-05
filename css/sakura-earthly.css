@@ -19,14 +19,14 @@ header {
  /*background:#035642; radial-gradient(ellipse at center,#035642 59%,#00231a 100%);*/
 	/*padding: 4rem 1.5rem 4rem 1.5rem;*/
 margin: -4rem calc(50% - 50vw) 2rem;
-padding-top:1.5rem;
+padding-top:0.25rem;
 background-color:#7dacc0;/*#074E68;/*#035642;/*#074E68;/*#467a91;/* #1e3765;*/
 color:#fff;
 }
 header a{color:#fff;}
 header a:visited{color:#fff;}
 header a:hover{color:#074E68;}
-nav a{background-color:#528ea9;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.8rem; padding-bottom:0.8rem; margin-right:2px; }
+nav a{background-color:#528ea9;/*#024333;/*#06465d;/*#396477;/*#001e42*/ ;padding-top:0.25rem; padding-bottom:0rem; margin-right:2px; }
 /*header a{color:#fff !important;}*/
 nav a:hover{background:#5a95b0 !important;border-bottom:none;}
 
@@ -82,7 +82,7 @@ button a:hover{border-bottom:none;}
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 700;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
