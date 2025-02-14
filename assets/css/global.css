@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-    font-family: "Rubik", sans-serif;
+    font-family: "Rubik", sans-serif !important;
     font-weight: 400;
     padding-top: 5.0rem;
     font-size:1.3rem;
@@ -8,21 +8,7 @@ body {
 
 }
 
-@font-face {
-  font-family: 'Rubik';
-  src: url('assets/fonts/Rubik-Regular.ttf') format('ttf'),
-       url('assets/fonts/Rubik-Italic.ttf') format('ttf'),
-       url('assets/fonts/Rubik-Light.ttf') format('ttf'),
-       url('assets/fonts/Rubik-LightItalic.ttf') format('ttf'),
-       url('assets/fonts/Rubik-Medium.ttf') format('ttf'),
-       url('assets/fonts/Rubik-MediumItalic.ttf') format('ttf'),
-       url('assets/fonts/Rubik-Bold.ttf') format('ttf'),
-       url('assets/fonts/Rubik-BoldItalic.ttf') format('ttf'),
-        url('assets/fonts/Rubik-Black.ttf') format('ttf'),
-         url('assets/fonts/Rubik-BlackItalic.ttf') format('ttf');
-  font-weight: normal;
-  font-style: normal;
-}
+
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
