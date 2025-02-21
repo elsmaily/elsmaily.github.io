@@ -17,9 +17,9 @@
     <link rel="stylesheet" href="assets/css/katex.min.css">
     <link rel="stylesheet" href="assets/css/global.css">
 </head>
-<body class="bg-light" >
+<body class="bg-light" data-spy="scroll" data-target="#navbar-year" data-offset="100">
     <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
-    <div class="container">
+    <div class="container-lg">
         <a class="navbar-brand" href="https://elsmaily.github.io"><strong>Mohammad El Smaily</strong></a>
         <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-map"></i> Menu
@@ -53,7 +53,7 @@
 </nav>
 
 
-    <div class="container">
+    <div class="container-lg">
 
 <h1>Publications</h1>
 
@@ -499,7 +499,7 @@ Below is the list of my publications in reverse chronological order.
 
     <div class="col-2 d-none d-lg-block">
         <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-<a class="nav-link d-block" href="#year-2025">2025</a>
+<a class="nav-link d-block active" href="#year-2025">2025</a>
 <a class="nav-link d-block" href="#year-2023">2023</a>
 <a class="nav-link d-block" href="#year-2022">2022</a>
 <a class="nav-link d-block" href="#year-2020">2020</a>
@@ -518,16 +518,16 @@ Below is the list of my publications in reverse chronological order.
 
     </div>
     <footer class="footer">
-    <div class="container">
+    <div class="container-lg">
         <div class="row my-3">
             <div class="col-6">
                 <div class="text-muted">
-                    <i>Last updated: Dec 2024</i>
+                    <i>Last updated: Feb 2025</i>
                 </div>
             </div>
             <div class="col-6">
                 <div class="text-right text-muted">
-                    <a href="https://elsmaily.github.io"><i class="fas fa-pencil-ruler"></i> Mohammad El Smaily</a>
+                    <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>
                 </div>
             </div>
         </div>
@@ -535,28 +535,28 @@ Below is the list of my publications in reverse chronological order.
 </footer>
 
 
-<!-- Scripts -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/github-buttons/2.14.2/buttons.min.js"></script>
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-          delimiters: [
-              {left: '$$', right: '$$', display: true},
-              {left: '$', right: '$', display: false}
-          ],
-          throwOnError : false
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" integrity="sha512-XKa9Hemdy1Ui3KSGgJdgMyYlUg1gM+QhL6cnlyTe2qzMCYm4nAZ1PsVerQzTTXzonUR+dmswHqgJPuwCq1MaAg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/github-buttons/2.14.2/buttons.min.js" integrity="sha512-OYwZx04hKFeFNYrWxIyo3atgGpb+cxU0ENWBZs72X7T9U+NoHPM1ftUn/Mfw7dRDXrqWA6M1wBg6z6fGE32aeA==" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" integrity="sha384-7zkQWkzuo3B5mTepMUcHkMB5jZaolc2xDwL6VFqjFALcbeS9Ggm/Yr2r3Dy4lfFg" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+              delimiters: [
+                  {left: '$$', right: '$$', display: true},
+                  {left: '$', right: '$', display: false}
+              ],
+              throwOnError : false
+            });
         });
-    });
-</script>
-<script src="assets/js/common.js"></script>
-<script src="assets/js/bubble_visual_hash.js"></script>
+    </script>
+    <script src="/academic-homepage/assets/js/common.js"></script>
+    <script src="/academic-homepage/assets/js/bubble_visual_hash.js"></script>
 </body>
 </html>
