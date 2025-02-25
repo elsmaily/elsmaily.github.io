@@ -1,1 +1,47 @@
-@charset "utf-8";@font-face{font-family:'Twitter Chirp';src:url(../fonts/Chirp-Heavy.eot);src:url(../fonts/Chirp-Heavy.eot?#iefix) format('embedded-opentype'),url(../fonts/Chirp-Heavy.woff2) format('woff2'),url(../fonts/Chirp-Heavy.ttf) format('truetype');font-weight:900;font-style:normal;font-display:swap}@font-face{font-family:'Twitter Chirp';src:url(../fonts/Chirp-Bold.eot);src:url(../fonts/Chirp-Bold.eot?#iefix) format('embedded-opentype'),url(../fonts/Chirp-Bold.woff2) format('woff2'),url(../fonts/Chirp-Bold.ttf) format('truetype');font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:'Twitter Chirp';src:url(../fonts/Chirp-Regular.eot);src:url(../fonts/Chirp-Regular.eot?#iefix) format('embedded-opentype'),url(../fonts/Chirp-Regular.woff2) format('woff2'),url(../fonts/Chirp-Regular.ttf) format('truetype');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'Twitter Chirp';src:url(../fonts/Chirp-Medium.eot);src:url(../fonts/Chirp-Medium.eot?#iefix) format('embedded-opentype'),url(../fonts/Chirp-Medium.woff2) format('woff2'),url(../fonts/Chirp-Medium.ttf) format('truetype');font-weight:500;font-style:normal;font-display:swap}body{font-family:"Twitter Chirp",sans-serif!important;font-weight:400;padding-top:5rem;font-size:1.1rem!important}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:700}@media only screen and (max-width:800px){.w-100{display:none}}@media only screen and (max-width:700px){.p-4{padding-left:5px!important;padding-right:5px!important}}@media only screen and (max-width:1000px){.h1{font-size:1.75rem!important}}.navbar{opacity:.95}.abstract-body{min-height:100px}img.lazy{background-image:url(https://elsmaily.github.io/assets/css/https://elsmaily.github.io/assets/css/images/loading.gif);background-repeat:no-repeat;background-position:50% 50%;background-size:50px 50px;min-height:80px}div.lazy{background-image:url(images/loading.gif);background-repeat:no-repeat;background-position:50% 50%;background-size:50px 50px;min-height:80px}
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Twitter Chirp';
+    src: url('../fonts/Chirp-Heavy.eot');
+    src: url('../fonts/Chirp-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Chirp-Heavy.woff2') format('woff2'),
+        url('../fonts/Chirp-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Twitter Chirp';
+    src: url('../fonts/Chirp-Bold.eot');
+    src: url('../fonts/Chirp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Chirp-Bold.woff2') format('woff2'),
+        url('../fonts/Chirp-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Twitter Chirp';
+    src: url('../fonts/Chirp-Regular.eot');
+    src: url('../fonts/Chirp-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Chirp-Regular.woff2') format('woff2'),
+        url('../fonts/Chirp-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Twitter Chirp';
+    src: url('../fonts/Chirp-Medium.eot');
+    src: url('../fonts/Chirp-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Chirp-Medium.woff2') format('woff2'),
+        url('../fonts/Chirp-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+body{font-family:"Twitter Chirp",sans-serif!important;
+  font-weight:400;padding-top:5rem;font-size:1.25rem}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:700}@media only screen and (max-width:700px){.card-body{padding-left:10px!important;padding-right:10px!important}.p-4{padding-left:5px!important;padding-right:5px!important}}@media only screen and (max-width:1000px){.h1{font-size:1.75rem!important}}.text-profile-position{font-weight:400}.text-profile-bio{font-weight:400}.navbar{opacity:.95}.inline-badge{height:16px;vertical-align:-10%;margin-right:2px;line-break:unset}.no-break{white-space:nowrap}img.lazy{background-image:url(https://elsmaily.github.io/assets/css/https://elsmaily.github.io/assets/css/images/loading.gif);background-repeat:no-repeat;background-position:50% 50%;background-size:50px 50px;min-height:80px}div.lazy{background-image:url(images/loading.gif);background-repeat:no-repeat;background-position:50% 50%;background-size:50px 50px;min-height:80px}.email-text{font-family:Courier,monospace}
