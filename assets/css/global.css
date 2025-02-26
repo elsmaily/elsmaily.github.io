@@ -64,9 +64,9 @@
     font-family: 'Proxima Nova';
     src: url('../fonts/proxima/proximanovaregular.eot');
     src: url('../fonts/proxima/ProximaNova-Regular.otf') format('embedded-opentype'),
-         url('../fonts/Proxima/proximanovaregular.woff') format('woff'),
-         url('../fonts/Proxima/proximanovaregular.ttf') format('truetype'),
-         url('../fonts/Proxima/proximanovaregular.svg') format('svg');
+         url('../fonts/proxima/proximanovaregular.woff') format('woff'),
+         url('../fonts/proxima/proximanovaregular.ttf') format('truetype'),
+         url('../fonts/proxima/proximanovaregular.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 
