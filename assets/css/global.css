@@ -84,8 +84,18 @@
 
 }
 
+
+/*Rubik*/
+@font-face {
+    font-family: 'Rubik';
+    src:   url('../fonts/Rubik-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
 body {
-    font-family: 'Proxima Nova';
+    font-family: 'Rubik';
     padding-top: 5.0rem;
     font-size:1.35rem !important;
 
