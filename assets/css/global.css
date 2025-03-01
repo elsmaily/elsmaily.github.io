@@ -109,12 +109,7 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 700; color:#79242f;
 }
 @media only screen and (max-width:800px){.w-100{display: none;}}
-@media only screen and (max-width:700px){
-.card-body{padding-left:10px !important;
-  padding-right:10px !important;}
-.p-4{padding-left:5px !important;
-  padding-right:5px !important;}
-  }
+
   @media only screen and (max-width:1000px){
   .h1{font-size:1.75rem !important;}
 
