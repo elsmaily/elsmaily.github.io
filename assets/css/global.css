@@ -9,9 +9,52 @@
     font-style: normal;
   }
 
+  @font-face {
+      font-family: 'Twitter Chirp';
+      src: url('../fonts/Chirp-Heavy.eot');
+      src: url('../fonts/Chirp-Heavy.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Chirp-Heavy.woff2') format('woff2'),
+          url('../fonts/Chirp-Heavy.ttf') format('truetype');
+      font-weight: 900;
+      font-style: normal;
+      font-display: swap;
+  }
+
+  @font-face {
+      font-family: 'Twitter Chirp';
+      src: url('../fonts/Chirp-Bold.eot');
+      src: url('../fonts/Chirp-Bold.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Chirp-Bold.woff2') format('woff2'),
+          url('../fonts/Chirp-Bold.ttf') format('truetype');
+      font-weight: bold;
+      font-style: normal;
+      font-display: swap;
+  }
+
+  @font-face {
+      font-family: 'Twitter Chirp';
+      src: url('../fonts/Chirp-Regular.eot');
+      src: url('../fonts/Chirp-Regular.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Chirp-Regular.woff2') format('woff2'),
+          url('../fonts/Chirp-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+  }
+
+  @font-face {
+      font-family: 'Twitter Chirp';
+      src: url('../fonts/Chirp-Medium.eot');
+      src: url('../fonts/Chirp-Medium.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Chirp-Medium.woff2') format('woff2'),
+          url('../fonts/Chirp-Medium.ttf') format('truetype');
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+  }
 
 body {
-    font-family: 'Rubik';
+    font-family: 'Twitter Chirp';
     padding-top: 5.0rem;
     font-size:1.3rem;}
 
