@@ -42,7 +42,63 @@
     font-style: normal;
     font-display: swap;
 }
-body{font-family:'Twitter Chirp';padding-top:5rem;font-size:1.3rem}@media only screen and (max-width:860px){body{font-size:1.2rem}}
+
+
+@font-face{
+  font-family:'Inter';
+  src:url('../fonts/inter/static/Inter_18pt-Regular.ttf');
+src:  url('../fonts/inter/static/Inter_18pt-Regular.ttf'),
+  url('../fonts/inter/static/Inter_18pt-Light.ttf'),
+  url('../fonts/inter/static/Inter_18pt-Medium.ttf'),
+  url('../fonts/inter/static/Inter_18pt-SemiBold.ttf'),
+  url('../fonts/inter/static/Inter_18pt-Bold.ttf'),
+  url('../fonts/inter/static/Inter_18pt-ExtraBold.ttf'),
+  url('../fonts/inter/static/Inter_18pt-Black.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Thin.ttf'),
+  url('../fonts/inter/static/Inter_24pt-ExtraLight.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Light.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Regular.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Medium.ttf'),
+  url('../fonts/inter/static/Inter_24pt-SemiBold.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Bold.ttf'),
+  url('../fonts/inter/static/Inter_24pt-ExtraBold.ttf'),
+url('../fonts/  static/Inter_24pt-Black.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Thin.ttf'),
+  url('../fonts/inter/static/Inter_28pt-ExtraLight.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Light.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Regular.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Medium.ttf'),
+  url('../fonts/inter/static/Inter_28pt-SemiBold.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Bold.ttf'),
+  url('../fonts/inter/static/Inter_28pt-ExtraBold.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Black.ttf'),
+  url('../fonts/inter/static/Inter_18pt-ThinItalic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-ExtraLightItalic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-LightItalic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-Italic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-MediumItalic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-SemiBoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_18pt-BoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-LightItalic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-Italic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-MediumItalic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-SemiBoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-BoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_24pt-ExtraBoldItalic.ttf'),
+url('../fonts/inter/static/Inter_24pt-BlackItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-ThinItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-ExtraLightItalic.ttf'),
+url('../fonts/inter/static/Inter_28pt-LightItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-Italic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-MediumItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-SemiBoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-BoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-ExtraBoldItalic.ttf'),
+  url('../fonts/inter/static/Inter_28pt-BlackItalic.ttf');
+}
+
+
+body{font-family:'Twitter Chirp';padding-top:5rem;font-size:1.2rem}
 /*body{
        background-image: url("../images/background.jpg");
        background-repeat: repeat;
