@@ -53,6 +53,31 @@
       font-display: swap;
   }
 
+
+  /**New Chirp*/
+  @font-face {
+      font-family: 'New Chirp';
+      src: url('../fonts/chirp/Chirp-Regular.80fda27a.woff2')format('woff2');
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+  }
+  @font-face {
+      font-family: 'New Chirp Heavy';
+      src: url('../fonts/chirp/chirp-extended-heavy-web.woff2')format('woff2');
+      font-weight: 900;
+      font-style: normal;
+      font-display: swap;
+  }
+  @font-face {
+      font-family: 'New Chirp Bold';
+      src: url('../fonts/chirp/Chirp-Bold.ebb56aba.woff2')format('woff2');
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+  }
+
+
   @font-face{
     font-family:'Inter';
     src:url('../fonts/inter/static/Inter_18pt-Regular.ttf');
@@ -107,7 +132,7 @@
   }
 
 
-  body{font-family:'Twitter Chirp';padding-top:5rem;font-size:1.3rem}
+  body{font-family:'New Chirp';padding-top:5rem;font-size:1.3rem}
     /*body{
            background-image: url("../images/background.jpg");
           background-attachment: fixed;
