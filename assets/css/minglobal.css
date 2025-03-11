@@ -103,7 +103,7 @@ url('../fonts/inter/static/Inter_28pt-LightItalic.ttf'),
 
 
 body{font-family:'Rubik';padding-top:5rem;font-size:1.3rem}
-@media only screen and (max-width:860px){body {font-size:1.2rem;}}
+@media only screen and (max-width:860px){body {font-size:1.1rem;}}
 /*body{
        background-image: url("../images/background.jpg");
        background-repeat: repeat;
