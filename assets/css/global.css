@@ -135,12 +135,7 @@
   body{font-family:'Rubik';padding-top:5rem;font-size:1.3rem}
   @media only screen and (max-width:860px){body {font-size:1.15rem;}}
 
-  .fixed-top{   background-color:  #035642 !important;}
-  .navbar-brand{color:#fff !important;}
-  a:hover {color: #006994;}
-  a {
-    text-decoration: none;
-    color: #007559}
+  
     /*body{
            background-image: url("../images/geo-background.jpg");
           background-attachment: fixed;
