@@ -104,6 +104,7 @@ url('../fonts/inter/static/Inter_28pt-LightItalic.ttf'),
 
 body{font-family:'Rubik';padding-top:5.5rem;font-size:20px;}
 @media only screen and (max-width:860px){body {font-size:1.15rem;}}
+.fixed-top{background-color: #035642!important;}
 /*body{
        background-image: url("../images/background.jpg");
        background-repeat: repeat;
