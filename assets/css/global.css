@@ -134,10 +134,11 @@
 
   body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;}
   @media only screen and (max-width:860px){body {font-size:1.15rem;}}
-h1,.h1{color:#977000;border-bottom: solid #ccc 6px;}
+/*h1,.h1{color:#977000;border-bottom: solid #ccc 6px;}*/
+
 .navbar{background-color: #035642!important;}
     body{
-           background-image: url("../images/geo-background-light.jpg");
+           background-image: url("../images/background.jpg");
           background-attachment: fixed;
            background-repeat: repeat;
        }

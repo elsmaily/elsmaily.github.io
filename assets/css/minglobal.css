@@ -107,7 +107,7 @@ body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;}
 
 .navbar{background-color: #035642!important;}
 body{
-       background-image: url("../images/geo-background-light.jpg");
+       background-image: url("../images/background.jpg");
       background-attachment: fixed;
        background-repeat: repeat;
    }
