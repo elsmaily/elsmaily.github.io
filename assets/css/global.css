@@ -137,6 +137,7 @@
 /*h1,.h1{color:#977000;border-bottom: solid #ccc 6px;}*/
 
 .navbar{background-color: #1E3765!important;}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:700;color:#1e3765;}@media only screen and (max-width:1000px){.h1{font-size:1.7rem!important}}
     /*body{
            background-image: url("../images/background.jpg");
           background-attachment: fixed;
