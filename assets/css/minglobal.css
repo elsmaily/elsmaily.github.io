@@ -105,7 +105,7 @@ url('../fonts/inter/static/Inter_28pt-LightItalic.ttf'),
 body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;}
 @media only screen and (max-width:860px){body {font-size:1.15rem;}}
 
-
+.navbar{border-top: solid 3px #1e3765;}
 /*body{
        background-image: url("../images/background.jpg");
       background-attachment: fixed;
