@@ -106,7 +106,7 @@ body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;color:#444}
 /*.bg-light, .bg-white{background-color: #ffe4f5 !important;}*/
 @media only screen and (max-width:860px){body {font-size:1.15rem;}}
 
-/*.navbar{border-bottom: solid 3px #035642;}*/
+.navbar{border-bottom: solid 3px #035642;}
 
 
   /*.bg-light{
