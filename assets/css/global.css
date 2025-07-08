@@ -132,7 +132,7 @@
   }
 
 
-  body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;color:#444;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";padding-top:5.5rem;font-size:1.4rem;color:#444;}
   @media only screen and (max-width:860px){body {font-size:1.15rem;}}
 /*h1,.h1{color:#977000;border-bottom: solid #ccc 6px;}*/
 
