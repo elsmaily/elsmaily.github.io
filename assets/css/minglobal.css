@@ -102,7 +102,7 @@ url('../fonts/inter/static/Inter_28pt-LightItalic.ttf'),
 }
 
 
-body{font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;;padding-top:5.5rem;font-size:1.4rem;color:#444}
+body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;color:#444}
 /*.bg-light, .bg-white{background-color: #ffe4f5 !important;}*/
 @media only screen and (max-width:860px){body {font-size:1rem;}}
 
