@@ -78,6 +78,25 @@
   }
 
 
+  @font-face {
+      font-family: 'Alegreya Sans';
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf');
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-Italic.ttf'),
+  src: url('../fonts/Alegreya_Sans/  AlegreyaSans-Light.ttf'),
+    src: url('../fonts/Alegreya_Sans/AlegreyaSans-LightItalic.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-Thin.ttf'),
+      src: url('../fonts/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf'),
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+  }
+
   @font-face{
     font-family:'Inter';
     src:url('../fonts/inter/static/Inter_18pt-Regular.ttf');
@@ -132,11 +151,12 @@
   }
 
 
+
   body{font-family:'Rubik';padding-top:5.5rem;font-size:1.4rem;color:#444;}
   @media only screen and (max-width:860px){body {font-size:1rem;}}
 /*h1,.h1{color:#977000;border-bottom: solid #ccc 6px;}*/
 
-.navbar{border-bottom: solid 3px #035642;}
+/*.navbar{border-bottom: solid 3px #035642;}*/
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:700;color:#035642;}@media only screen and (max-width:1000px){.h1{font-size:1.7rem!important}}
 
 
